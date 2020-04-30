@@ -14,3 +14,5 @@ The p-value for the R^2 = 1 - pchisq(2*(ll.proposed - ll.null) df=(length(logist
 
 McFadden's Pseudo R^2 = [ LL(Null) - LL(Proposed) ] / LL(Null) = 0.1525795
 
+![](plot.png)
+
