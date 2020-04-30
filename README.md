@@ -11,4 +11,5 @@ It is really basic and the values are not really good, because i didn't have a l
 create or find a bigger database with more factors and upgrade the algorithm 
 
 The p-value for the R^2 = 1 - pchisq(2*(ll.proposed - ll.null) df=(length(logistic_all$coefficients)-1)) = 0.05298148
+McFadden's Pseudo R^2 = [ LL(Null) - LL(Proposed) ] / LL(Null) = 0.06018678
 
